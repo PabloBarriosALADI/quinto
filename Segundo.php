@@ -6,6 +6,7 @@
 
 <?php
 // define variables and set to empty values
+//Septimo
 $name = $email = $gender = $comment = $website = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
