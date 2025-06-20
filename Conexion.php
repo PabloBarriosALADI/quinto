@@ -3,7 +3,7 @@ $servername = "localhost:3306";
 $username = "root";
 $password = "Aladi1980+";
 $dbname = "consultaweb";
-//primer segundo tercero
+//primer segundo tercero cuarto
 // try {
   $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
   // set the PDO error mode to exception
